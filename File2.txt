@@ -1,0 +1,16 @@
+https://github.com/gkath/GitExample.git
+
+1. git init
+2. git add File1.txt --> add to staging area. It means we want to push these files.
+3. git config --global user.email "you@example.com"
+4. git config --global user.name "Your Name"
+5. git commit -m "first commit"
+6. git remote add origin https://github.com/gkath/GitExample.git
+
+git remote set-url origin https://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@github.com/gkath/GitExample.git
+
+
+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
+7. git push origin master
+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
+
