@@ -1,0 +1,7 @@
+https://github.com/gkath/GitExample.git
+
+1. git init
+2. git add File1.txt --> add to staging area. It means we want to push these files.
+3. git commit -m "first commit"
+4. 
+
