@@ -13,4 +13,6 @@ git remote set-url origin https://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@githu
 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
 7. git push origin master
 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
+8. Git checkout -b branch1
+
 
