@@ -16,3 +16,8 @@ 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
 8. Git checkout -b branch1
 
 
+
+git remote set-url origin https://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@github.com/gkath/GitExample.git
+
+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
+
